@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Achira</h1>
+<h3 align="center">Computer Engineering Student @RMUTL | IoT & Hardware Builder</h3>
 
-<!--
-**achira113456789-dotcom/achira113456789-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=achira113456789-dotcom&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying **Computer Engineering (วศ.บ.)**
+- 🌱 I’m currently learning **C/C++, Local LLM, and Data Structures**
+- ⚡ Tech Stack: `C++`, `IoT`, `ESP32`, `Lua`
+- 👯 Looking to collaborate on: **Automation & Microcontroller Projects**
+- 💬 Ask me about: **Hardware wiring, Roblox Scripts, and PLC**
+- 📫 How to reach me: achira113456789gmail.com
+  
